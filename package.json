@@ -58,7 +58,8 @@
   },
   "peerDependencies": {
     "rxjs": "^5.0.1",
-    "angular": ">=1.4.x"
+    "angular": ">=1.4.x",
+    "typescript": "2.1.4"
   },
   "dependencies": {},
   "czConfig": {
